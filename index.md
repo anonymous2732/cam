@@ -42,7 +42,7 @@ __Baselines__:
 *GIVT+Noise*: GIVT with 32 modes trained our proposed noise augmentation technique during training.  
 *MAR*: [Autoregressive Image Generation without Vector Quantization](https://arxiv.org/abs/2406.11838) using the configuration with raster order and causal direction.  
 *MAR RF*: MAR model trained using the [Rectified Flow](https://arxiv.org/abs/2209.03003) framework instead of the noise prediction with linear noise schedule framework.  
-*RF*: Non-autoregressive diffusion model trained using the [Rectified Flow](https://arxiv.org/abs/2209.03003).  
+*RF*: Non-autoregressive diffusion model trained using the [Rectified Flow](https://arxiv.org/abs/2209.03003) framework.  
 *CAM*: Ours.  
 
 
